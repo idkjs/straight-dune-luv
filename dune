@@ -1,0 +1,3 @@
+(executables
+ (names progress)
+ (libraries luv))
